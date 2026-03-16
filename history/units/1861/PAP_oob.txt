@@ -1,36 +1,31 @@
-FRA = {
-	value = 125
-}
-AUS = {
-	value = 125
+FRA = { value = 125 }
+AUS = { value = 125 }
+
+army = {
+  name = "Esercito Pontificio"
+  location = 749
+  regiment = {
+    name = "1. Zuavi Pontifici"
+    type = regular
+  }
+
+  regiment = {
+    name = "2. Zuavi Pontifici - Sancti Patricii"
+    type = regular
+  }
+
+  regiment = {
+    name = "4. Zuavi Pontifici"
+    type = artillery
+  }
 }
 
 army = {
-	name = "Esercito Pontificio"
-	location = 749
-	regiment = {
-		name= "1. Zuavi Pontifici"
-		type = regular
-	}
+  name = "Esercito di Romagna"
+  location = 741
 
-	regiment = {
-		name= "2. Zuavi Pontifici - Sancti Patricii"
-		type = regular
-	}
-
-	regiment = {
-		name= "4. Zuavi Pontifici"
-		type = artillery
-	}
+  regiment = {
+    name = "3. Zuavi Pontifici - Sancti Pauli"
+    type = regular
+  }
 }
-
-army = {
-	name = "Esercito di Romagna"
-	location = 741
-	
-	regiment = {
-		name= "3. Zuavi Pontifici - Sancti Pauli"
-		type = regular
-	}
-}
-

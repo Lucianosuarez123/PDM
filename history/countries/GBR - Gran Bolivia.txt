@@ -35,12 +35,11 @@ education = elite
 ruling_party = CLM_liberal
 last_election = 1832.3.10
 upper_house = {
-	fascist = 0
-	liberal = 52
-	conservative = 31
-	reactionary = 17
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 52
+  conservative = 31
+  reactionary = 17
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
-

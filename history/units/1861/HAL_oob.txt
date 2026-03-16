@@ -1,35 +1,24 @@
-TUR = {
-	value = 75
-}
+TUR = { value = 75 }
 
 army = {
+  name = "Ibn Rashid's Army"
 
-	name = "Ibn Rashid's Army"
+  location = 1160
+  regiment = {
+    name = "1. 'Ateba"
 
-	location = 1160
-	regiment = {
-
-		name= "1. 'Ateba"
-
-		type = hussar
-
-
-	}
+    type = hussar
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "2. 'Ateba"
 
-		name= "2. 'Ateba"
+    type = hussar
+  }
+  regiment = {
+    name = "3. 'Ateba"
 
-		type = hussar
-
-	
-	}
-	regiment = {
-
-		name= "3. 'Ateba"
-
-		type = hussar
-
-	}
+    type = hussar
+  }
 }

@@ -12,18 +12,18 @@ terrain = forested_farmland
 #	upgrade = yes
 #}
 state_building = {
-	level = 2
-	building = gunpowder_factory
-	upgrade = yes
+  level = 2
+  building = gunpowder_factory
+  upgrade = yes
 }
 1861.1.1 = {
-	state_building = {
-		level = 1
-		building = winery
-		upgrade = yes
-	}
+  state_building = {
+    level = 1
+    building = winery
+    upgrade = yes
+  }
 }
-1861.1.1 = { 
-	railroad = 3 
-	naval_base = 1
+1861.1.1 = {
+  railroad = 3
+  naval_base = 1
 }

@@ -1,49 +1,43 @@
-AUS = {
-	value = 125
-}
-PRU = {
-	value = 125
-}
-ENG = {
-	value = 125
-}
+AUS = { value = 125 }
+PRU = { value = 125 }
+ENG = { value = 125 }
 
 army = {
-	name = "Hannöversche Heer"
-	location = 534
-	
-	regiment = {
-		name= "1. Hannöversche Infanteriebrigade"
-		type = regular
-		home = 534
-	}
-	regiment = {
-		name= "2. Hannöversche Infanteriebrigade"
-		type = regular
-		home = 534
-	}	
-	regiment = {
-		name= "3. Hannöversche Infanteriebrigade"
-		type = regular
-		home = 534
-	}
-	regiment = {
-		name= "1. Hannöversche Artilleriebrigade"
-		type = artillery
-		home = 534
-	}
+  name = "Hannöversche Heer"
+  location = 534
+
+  regiment = {
+    name = "1. Hannöversche Infanteriebrigade"
+    type = regular
+    home = 534
+  }
+  regiment = {
+    name = "2. Hannöversche Infanteriebrigade"
+    type = regular
+    home = 534
+  }
+  regiment = {
+    name = "3. Hannöversche Infanteriebrigade"
+    type = regular
+    home = 534
+  }
+  regiment = {
+    name = "1. Hannöversche Artilleriebrigade"
+    type = artillery
+    home = 534
+  }
 }
 
 
 
 army = {
-	name = "Korps Göttingen"
-	location = 537
-	
-	
-regiment = {
-		name = "4. Hannöversche Infanteriebrigade"
-		type = regular
-		home = 534
-	}	
+  name = "Korps Göttingen"
+  location = 537
+
+
+  regiment = {
+    name = "4. Hannöversche Infanteriebrigade"
+    type = regular
+    home = 534
+  }
 }

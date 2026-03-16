@@ -18,7 +18,7 @@ voting_system = first_past_the_post
 political_parties = underground_parties
 minorities_reform = limited
 immigration_policy = open_immigration
-conscription=two_year_draft
+conscription = two_year_draft
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -27,18 +27,18 @@ safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-pollution=no_controls
+pollution = no_controls
 child_labor = child_labor_legal
-arts_endowment=no_endowment
+arts_endowment = no_endowment
 education = elite
 
 ruling_party = RGR_liberal
 upper_house = {
-	fascist = 0
-	liberal = 54
-	conservative = 31
-	reactionary = 15
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 54
+  conservative = 31
+  reactionary = 15
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }

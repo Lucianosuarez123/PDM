@@ -6,6 +6,4 @@ add_core = GER
 trade_goods = cattle
 life_rating = 35
 terrain = good_farmland
-1861.1.1 = {
-	add_core = DEN
-}
+1861.1.1 = { add_core = DEN }

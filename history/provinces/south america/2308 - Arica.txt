@@ -7,7 +7,7 @@ trade_goods = sulphur
 life_rating = 35
 terrain = cold_desert_hills
 1861.1.1 = {
-	owner = CHL
-	controller = CHL
-	remove_core = SPU
+  owner = CHL
+  controller = CHL
+  remove_core = SPU
 }

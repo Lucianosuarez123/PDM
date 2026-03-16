@@ -1,36 +1,25 @@
-TUR = {
-	value = 125
-}
+TUR = { value = 125 }
 
 army = {
+  name = "Bedouins"
 
-	name = "Bedouins"
+  location = 1153
 
-	location = 1153
+  regiment = {
+    name = "1.Beni Atiya"
 
-	regiment = {
-
-		name= "1.Beni Atiya"
-
-		type = infantry
-
-	}
+    type = infantry
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "2.Beni Atiya"
 
-		name= "2.Beni Atiya"
+    type = infantry
+  }
+  regiment = {
+    name = "1.Harb"
 
-		type = infantry
-
-	}
-	regiment = {
-
-		name= "1.Harb"
-
-		type = hussar
-	}
-
-
+    type = hussar
+  }
 }
-

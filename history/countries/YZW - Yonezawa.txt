@@ -34,13 +34,13 @@ education = elite
 
 ruling_party = NIP_reactionary
 upper_house = {
-	fascist = 0
-	liberal = 17
-	conservative = 35
-	reactionary = 48
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 17
+  conservative = 35
+  reactionary = 48
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 set_country_flag = existing_country
@@ -65,34 +65,32 @@ nonstate_consciousness = 0
 
 oob = "YZW_oob.txt"
 1861.1.1 = {
-	oob = "/1861/YZW_oob.txt"
-	decision = switch_to_independence
+  oob = "/1861/YZW_oob.txt"
+  decision = switch_to_independence
 }
 1861.1.1 = {
+  foreign_weapons = yes_foreign_weapons
+  army_schools = yes_army_schools
+  foreign_navies = advanced_foreign_navies
+  naval_schools = yes_naval_schools
+  land_reform = yes_land_reform
+  finance_reform = yes_finance_reform
+  academic_institutions = madrasahs
+  medicine_reform = alchemy
+  taxation_reform = tax_farmers
+  diplomatic_reform = interactive
 
-foreign_weapons = yes_foreign_weapons
-army_schools = yes_army_schools
-foreign_navies = advanced_foreign_navies
-naval_schools = yes_naval_schools
-land_reform = yes_land_reform
-finance_reform = yes_finance_reform
-academic_institutions = madrasahs
-medicine_reform = alchemy
-taxation_reform = tax_farmers
-diplomatic_reform = interactive
+  # Technologies
+  flintlock_rifles = 1
+  bronze_muzzle_loaded_artillery = 1
+  clipper_design = 1
+  alphabetic_flag_signaling = 1
+  freedom_of_trade = 1
+  no_standard = 1
+  late_enlightenment_philosophy = 1
+  basic_chemistry = 1
+  private_banks = 1
+  early_classical_theory_and_critique = 1
 
-# Technologies
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-clipper_design = 1
-alphabetic_flag_signaling = 1
-freedom_of_trade = 1
-no_standard = 1
-late_enlightenment_philosophy = 1
-basic_chemistry = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
+  # Inventions
 }

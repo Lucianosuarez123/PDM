@@ -11,7 +11,8 @@ railroad = 1
 #	upgrade = yes
 #}
 1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA}
+  controller = CSA
+  owner = CSA
+  add_core = CSA
+}
 1861.1.1 = { railroad = 3 }

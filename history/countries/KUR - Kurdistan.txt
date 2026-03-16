@@ -21,7 +21,7 @@ safety_regulations = no_safety
 
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
 # Starting Consciousness
@@ -36,11 +36,11 @@ flintlock_rifles = 1
 
 ruling_party = PER_conservative
 upper_house = {
-	fascist = 0
-	liberal = 12
-	conservative = 60
-	reactionary = 28
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 12
+  conservative = 60
+  reactionary = 28
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }

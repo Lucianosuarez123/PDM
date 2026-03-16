@@ -34,13 +34,13 @@ education = elite
 
 ruling_party = TRZ_conservative
 upper_house = {
-	fascist = 0
-	liberal = 20
-	conservative = 60
-	reactionary = 20
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 20
+  conservative = 60
+  reactionary = 20
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 foreign_weapons = yes_foreign_weapons
@@ -59,22 +59,17 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TRZ_oob.txt"
-1861.1.1 = {
-	oob = "/1861/TRZ_oob.txt"
-}
+1861.1.1 = { oob = "/1861/TRZ_oob.txt" }
 
 1861.1.1 = {
+  foreign_weapons = yes_foreign_weapons
+  academic_institutions = madrasahs
+  diplomatic_reform = interactive
 
-foreign_weapons = yes_foreign_weapons
-academic_institutions = madrasahs
-diplomatic_reform = interactive
+  # Technologies
+  flintlock_rifles = 1
+  late_enlightenment_philosophy = 1
+  early_classical_theory_and_critique = 1
 
-# Technologies
-flintlock_rifles = 1
-late_enlightenment_philosophy = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
+  # Inventions
 }
-

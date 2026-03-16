@@ -5,7 +5,5 @@ trade_goods = coal
 life_rating = 35
 terrain = deciduous_forest
 colonial = 1
-1861.1.1 = {
-	colonial = 0
-	}
+1861.1.1 = { colonial = 0 }
 1861.1.1 = { railroad = 3 }

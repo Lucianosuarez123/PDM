@@ -1,32 +1,22 @@
-GEL = {
-	value = 50
-}
+GEL = { value = 50 }
 
-EGY = {
-	value = 60
-}
+EGY = { value = 60 }
 
-GON = {
-	value = 10
-}
+GON = { value = 10 }
 
-SHW = {
-	value = 10
-}
+SHW = { value = 10 }
 
 army = {
-	name = "Army of the Majeerteen Sultanate"
-	location = 1872	
-regiment = {
-		name= "Shaykh's Guards"	
-		type = infantry
-	}
+  name = "Army of the Majeerteen Sultanate"
+  location = 1872
+  regiment = {
+    name = "Shaykh's Guards"
+    type = infantry
+  }
 
 
-regiment = {
-		name= "Berbera Warriors"	
-	type = infantry
-	}
+  regiment = {
+    name = "Berbera Warriors"
+    type = infantry
+  }
 }
-
-

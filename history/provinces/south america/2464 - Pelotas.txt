@@ -8,16 +8,16 @@ trade_goods = cattle
 life_rating = 35
 terrain = hilly_farmland
 1825.1.1 = {
-	controller = BRZ
-	owner = BRZ
-	add_core = BRZ
+  controller = BRZ
+  owner = BRZ
+  add_core = BRZ
 }
 1836.1.1 = {
-	controller = RGS
-	owner = RGS
-	add_core = RGS
+  controller = RGS
+  owner = RGS
+  add_core = RGS
 }
 1861.1.1 = {
-	owner = BRZ
-	controller = BRZ
+  owner = BRZ
+  controller = BRZ
 }

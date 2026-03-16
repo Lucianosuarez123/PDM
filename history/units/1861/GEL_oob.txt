@@ -1,41 +1,24 @@
-SHW = {
-	value = 10
-}
+SHW = { value = 10 }
 
-GON = {
-	value = 10
-}
+GON = { value = 10 }
 
-EGY = {
-	value = 60
-}
+EGY = { value = 60 }
 
-MAJ = {
-	value = 50
-}
+MAJ = { value = 50 }
 
-OMA = {
-	value = 100
-}
+OMA = { value = 100 }
 
 army = {
-	name = "Army of the Geledi Sultanate"
-	location = 1868
-regiment = {
-		name= "Sultan's Guards"
-			type = infantry
-	
-	}
-	
-regiment = {
-		name= "Baidoa Tribesmen"
+  name = "Army of the Geledi Sultanate"
+  location = 1868
+  regiment = {
+    name = "Sultan's Guards"
+    type = infantry
+  }
 
-		type = infantry	
+  regiment = {
+    name = "Baidoa Tribesmen"
 
-	}
-
-
-
-
-
+    type = infantry
+  }
 }

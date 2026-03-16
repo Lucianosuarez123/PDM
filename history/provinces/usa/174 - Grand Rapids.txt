@@ -5,7 +5,5 @@ trade_goods = timber
 life_rating = 35
 terrain = forested_farmland
 colonial = 1
-1861.1.1 = {
-	colonial = 0
-	}
+1861.1.1 = { colonial = 0 }
 1861.1.1 = { railroad = 3 }

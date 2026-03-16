@@ -6,6 +6,6 @@ life_rating = 30
 terrain = seasonal_jungle_mountains
 colonial = 1
 1861.1.1 = {
-	owner = NET
-	controller = NET
+  owner = NET
+  controller = NET
 }

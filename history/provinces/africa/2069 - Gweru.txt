@@ -2,6 +2,4 @@ add_core = SHO
 trade_goods = cattle
 life_rating = 15
 terrain = dry_forest_hills
-1861.1.1 = {
-	add_core = MAT
-}
+1861.1.1 = { add_core = MAT }

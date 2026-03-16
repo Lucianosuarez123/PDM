@@ -35,13 +35,13 @@ education = elite
 
 ruling_party = DND_conservative
 upper_house = {
-	fascist = 0
-	liberal = 16
-	conservative = 41
-	reactionary = 43
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 16
+  conservative = 41
+  reactionary = 43
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 set_country_flag = existing_country
@@ -62,20 +62,16 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "DND_oob.txt"
+1861.1.1 = { oob = "/1861/DND_oob.txt" }
 1861.1.1 = {
-	oob = "/1861/DND_oob.txt"
-}
-1861.1.1 = {
+  foreign_weapons = yes_foreign_weapons
+  academic_institutions = madrasahs
+  diplomatic_reform = interactive
 
-foreign_weapons = yes_foreign_weapons
-academic_institutions = madrasahs
-diplomatic_reform = interactive
+  # Technologies
+  flintlock_rifles = 1
+  late_enlightenment_philosophy = 1
+  early_classical_theory_and_critique = 1
 
-# Technologies
-flintlock_rifles = 1
-late_enlightenment_philosophy = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
+  # Inventions
 }

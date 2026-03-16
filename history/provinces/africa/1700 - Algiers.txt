@@ -7,8 +7,8 @@ life_rating = 35
 terrain = forested_farmland
 colonial = 1
 1836.1.1 = {
-	controller = FRA 
-	owner = FRA
+  controller = FRA
+  owner = FRA
 }
 1861.1.1 = { colonial = 0 }
 1861.1.1 = { railroad = 2 }

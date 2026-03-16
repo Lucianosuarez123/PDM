@@ -25,19 +25,19 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
 ruling_party = BRZ_conservative
 last_election = 1835.1.1
 upper_house = {
-	fascist = 0
-	liberal = 25
-	conservative = 60
-	reactionary = 15
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 25
+  conservative = 60
+  reactionary = 15
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 # Technologies
@@ -61,14 +61,12 @@ nonstate_consciousness = 1
 oob = "BRZ_oob.txt"
 
 1835.1.1 = {
-         set_global_flag = the_empire_has_king
-         set_global_flag = farroupilha
-         set_country_flag = independence
-         set_country_flag = constitution
-         set_country_flag = we_are_monarchists
-         prestige = 35
+  set_global_flag = the_empire_has_king
+  set_global_flag = farroupilha
+  set_country_flag = independence
+  set_country_flag = constitution
+  set_country_flag = we_are_monarchists
+  prestige = 35
 }
 
-1847.1.1 = {
-         government = hms_government
-}
+1847.1.1 = { government = hms_government }

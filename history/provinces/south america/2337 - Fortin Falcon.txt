@@ -7,6 +7,6 @@ life_rating = 30
 terrain = dry_forest
 colonial = 1
 1836.1.1 = {
-	controller = PRG
-	owner = PRG
+  controller = PRG
+  owner = PRG
 }

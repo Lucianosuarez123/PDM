@@ -1,25 +1,23 @@
 army = {
-	name = "Ejército de Venezuela"
-	location = 2264
-	regiment = {
-		name= "1.1ra división de infantería"
-		type = regular
-	}
+  name = "Ejército de Venezuela"
+  location = 2264
+  regiment = {
+    name = "1.1ra división de infantería"
+    type = regular
+  }
 
-	regiment = {
-		name= "2.1ra división de infantería"
-		type = regular
-	}
+  regiment = {
+    name = "2.1ra división de infantería"
+    type = regular
+  }
 
-	regiment = {
-		name= "3.1ra división de infantería"
-		type = regular
-	}
+  regiment = {
+    name = "3.1ra división de infantería"
+    type = regular
+  }
 
-	regiment = {
-		name= "4.1ra división de infantería"
-		type = cuirassier
-	}
-
+  regiment = {
+    name = "4.1ra división de infantería"
+    type = cuirassier
+  }
 }
-

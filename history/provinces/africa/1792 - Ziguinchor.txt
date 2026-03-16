@@ -5,7 +5,7 @@ trade_goods = grain
 life_rating = 35
 terrain = seasonal_jungle
 1861.1.1 = {
-	owner = FRA
-	controller = FRA
-	colonial = 1
+  owner = FRA
+  controller = FRA
+  colonial = 1
 }

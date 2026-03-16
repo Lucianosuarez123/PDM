@@ -6,6 +6,6 @@ trade_goods = cotton
 life_rating = 35
 terrain = dry_forest_mountains
 1836.1.1 = {
-	controller = GRE 
-	owner = GRE
+  controller = GRE
+  owner = GRE
 }

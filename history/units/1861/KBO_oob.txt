@@ -1,22 +1,20 @@
 army = {
-	name = "Army of the Kanem-Bornu Empire"
-	location = 1951
-	regiment = {
-		name= "Knights of Bornu"
-		type = hussar
-	}
-	regiment = {
-		name= "1st Bornu Warriors"	
-		type = infantry
-	}
-	regiment = {
-		name= "2nd Bornu Warriors"	
-		type = infantry
-	}
-	regiment = {
-		name= "3rd Bornu Warriors"	
-		type = infantry
-	}
+  name = "Army of the Kanem-Bornu Empire"
+  location = 1951
+  regiment = {
+    name = "Knights of Bornu"
+    type = hussar
+  }
+  regiment = {
+    name = "1st Bornu Warriors"
+    type = infantry
+  }
+  regiment = {
+    name = "2nd Bornu Warriors"
+    type = infantry
+  }
+  regiment = {
+    name = "3rd Bornu Warriors"
+    type = infantry
+  }
 }
-
-

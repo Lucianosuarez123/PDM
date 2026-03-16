@@ -1,36 +1,24 @@
-POR = {
-	value = 75
-}
+POR = { value = 75 }
 
-NET = {
-	value = 30
-}
+NET = { value = 30 }
 
-KON = {
-	value = 50
-}
+KON = { value = 50 }
 
-SPA = {
-	value = 30
-}
+SPA = { value = 30 }
 
-FRA = {
-	value = 30
-}
+FRA = { value = 30 }
 
 army = {
-	name = "Army of the Loango Kingdom"
-	location = 2624
-	regiment = {
-		name= "Ma Lw„„gu's Guards"	
-		type = infantry
-		home = 1977
-	}
-	regiment = {
-		name= "Warriors of Loango"	
-		type = infantry
-		home = 1977
-	}
+  name = "Army of the Loango Kingdom"
+  location = 2624
+  regiment = {
+    name = "Ma Lw„„gu's Guards"
+    type = infantry
+    home = 1977
+  }
+  regiment = {
+    name = "Warriors of Loango"
+    type = infantry
+    home = 1977
+  }
 }
-
-

@@ -6,7 +6,7 @@ trade_goods = fish
 life_rating = 25
 terrain = mountain_grassland
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
-	colonial = 1
+  owner = RUS
+  controller = RUS
+  colonial = 1
 }

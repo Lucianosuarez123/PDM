@@ -1,441 +1,316 @@
-ENG = {
-	value = 125
-}
-MOR = {
- 
-	value = 75
-}
-SAK = {
-	value = -100
-}
-ASH = {
-	value = 75
-}
-BEN = {
-	value = 40
-}
-DAH = {
-	value = 60
-}
-OYO = {
-	value = 50
-}
-ARO = {
-	value = 40
-}
-CLA = {
-	value = 60
-}
-WRI = {
-	value = 50
-}
-KON = {
-	value = 40
-}
-LOA = {
-	value = 30
-}
-GBU = {
-	value = 40
-}
-TOO = {
-	value = 40
-}
-WOL = {
-	value = 40
-}
-SUL = {
-	value = 50
-}
+ENG = { value = 125 }
+MOR = { value = 75 }
+SAK = { value = -100 }
+ASH = { value = 75 }
+BEN = { value = 40 }
+DAH = { value = 60 }
+OYO = { value = 50 }
+ARO = { value = 40 }
+CLA = { value = 60 }
+WRI = { value = 50 }
+KON = { value = 40 }
+LOA = { value = 30 }
+GBU = { value = 40 }
+TOO = { value = 40 }
+WOL = { value = 40 }
+SUL = { value = 50 }
 
 army = {
+  name = "1e Divisie"
 
-	name = "1e Divisie"
+  location = 375
 
-	location = 375
- 
-	regiment = {
+  regiment = {
+    name = "1e Cavalerie Brigade"
 
-		name= "1e Cavalerie Brigade"
-
-		type = cavalry
-
-	}
+    type = cavalry
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "2e Cavalerie Brigade"
 
-		name= "2e Cavalerie Brigade"
-
-		type = cavalry
-
-	}
+    type = cavalry
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "3e Cavalerie Brigade"
 
-		name= "3e Cavalerie Brigade"
-
-		type = cavalry
-
-	}
+    type = cavalry
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "1e Infanterie Brigade"
 
-		name = "1e Infanterie Brigade"
-
-		type = regular
-
-	}
+    type = regular
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "2e Infanterie Brigade"
 
-		name = "2e Infanterie Brigade"
-
-		type = regular
-
-	}
+    type = regular
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "3e Infanterie Brigade"
 
-		name = "3e Infanterie Brigade"
-
-		type = regular
-
-	}
-
-
+    type = regular
+  }
 }
 
 
 army = {
+  name = "2e Divisie"
 
-	name = "2e Divisie"
+  location = 381
 
-	location = 381
+  regiment = {
+    name = "4e Infanterie Brigade"
 
-	regiment = {
-
-		name = "4e Infanterie Brigade"
-
-		type = regular
-
-	}
+    type = regular
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "5e Infanterie Brigade"
 
-		name = "5e Infanterie Brigade"
-
-		type = regular
-
-	}
+    type = regular
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "6e Infanterie Brigade"
 
-		name = "6e Infanterie Brigade"
-
-		type = regular
-
-	}
-
-
+    type = regular
+  }
 }
 
 
 army = {
+  name = "3e Divisie"
 
-	name = "3e Divisie"
+  location = 375
 
-	location = 375
+  regiment = {
+    name = "7e Infanterie Brigade"
 
-	regiment = {
-
-		name = "7e Infanterie Brigade"
-
-		type = regular
-
-	}
+    type = regular
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "8e Infanterie Brigade"
 
-		name = "8e Infanterie Brigade"
-
-		type = regular
-
-	}
+    type = regular
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "9e Infanterie Brigade"
 
-		name = "9e Infanterie Brigade"
-
-		type = regular
-
-	}
-
-
+    type = regular
+  }
 }
 
 
 army = {
+  name = "K.N.I.L."
 
-	name = "K.N.I.L."
+  location = 1413
 
-	location = 1413
+  regiment = {
+    name = "1e Indische Brigade"
 
-	regiment = {
+    type = regular
+  }
+  regiment = {
+    name = "2e Indische Brigade"
 
-		name = "1e Indische Brigade"
-
-		type = regular
-
-	}
-	regiment = {
-
-		name = "2e Indische Brigade"
-
-		type = regular
-
-	}
+    type = regular
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "Banisaren Korps"
 
-		name = "Banisaren Korps"
-
-		type = infantry
-
-	}
-
+    type = infantry
+  }
 }
 
 
 navy = {
+  name = "Koninklijke Marine"
 
-	name = "Koninklijke Marine"
+  location = 375 #Amsterdam
 
-	location = 375 #Amsterdam
+  ship = {
+    name = "Doggersbank"
 
-	ship = {
-
-		name= "Doggersbank"
-
-		type = manowar
-
-	}
+    type = manowar
+  }
 
 
-	ship = {
+  ship = {
+    name = "Amsterdam"
 
-		name= "Amsterdam"
-
-		type = manowar
-
-	}
+    type = manowar
+  }
 
 
-	ship = {
+  ship = {
+    name = "Maria Regensbergen"
 
-		name= "Maria Regensbergen"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Pallas"
 
-		name= "Pallas"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Proserpine"
 
-		name= "Proserpine"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Daphne"
 
-		name= "Daphne"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Espion"
 
-		name= "Espion"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Zeepaard"
 
-		name= "Zeepaard"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Irene"
 
-		name= "Irene"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Orpheus"
 
-		name= "Orpheus"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
 
-	ship = {
+  ship = {
+    name = "1e Transport Eskader"
 
-		name= "1e Transport Eskader"
-
-		type = clipper_transport
-
-	}
-
+    type = clipper_transport
+  }
 }
 
 
 navy = {
+  name = "Koninklijke NI Marine"
 
-	name = "Koninklijke NI Marine"
+  location = 1413 #Batavia
 
-	location = 1413 #Batavia
+  ship = {
+    name = "Admiraal de Ruyter"
 
-	ship = {
-
-		name= "Admiraal de Ruyter"
-
-		type = manowar
-
-	}
+    type = manowar
+  }
 
 
-	ship = {
+  ship = {
+    name = "Verwachting"
 
-		name= "Verwachting"
-
-		type = manowar
-
-	}
+    type = manowar
+  }
 
 
-	ship = {
+  ship = {
+    name = "Aurora"
 
-		name= "Aurora"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Iris"
 
-		name= "Iris"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Fenix"
 
-		name= "Fenix"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Eendracht"
 
-		name= "Eendracht"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "2e Transport Eskader"
 
-		name= "2e Transport Eskader"
-
-		type = clipper_transport
-
-	}
-
+    type = clipper_transport
+  }
 }
 
 
 navy = {
+  name = "Koninklijke WI Marine"
 
-	name = "Koninklijke WI Marine"
-
-	location = 2234 #Curacao
-
-
-	ship = {
-
-		name= "Admiraal Generaal"
-
-		type = manowar
-
-	}
+  location = 2234 #Curacao
 
 
-	ship = {
+  ship = {
+    name = "Admiraal Generaal"
 
-		name= "Diana"
-
-		type = frigate
-
-	}
+    type = manowar
+  }
 
 
-	ship = {
+  ship = {
+    name = "Diana"
 
-		name= "Hoop"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Hoop"
 
-		name= "3e Transport Eskader"
-
-		type = clipper_transport
-
-	}
+    type = frigate
+  }
 
 
+  ship = {
+    name = "3e Transport Eskader"
+
+    type = clipper_transport
+  }
 }

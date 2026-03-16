@@ -1,39 +1,30 @@
 army = {
+  name = "Army of the Sultan of Bone"
 
-	name = "Army of the Sultan of Bone"
+  location = 1431
 
-	location = 1431
+  regiment = {
+    name = "1st Infantry"
 
-	regiment = {
+    type = infantry
 
-		name= "1st Infantry"
-
-		type = infantry
-		
-		home = 1431
-
-	}
+    home = 1431
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "2nd Infantry"
 
-		name= "2nd Infantry"
+    type = infantry
 
-		type = infantry
-		
-		home = 1431
+    home = 1431
+  }
 
-	}
+  regiment = {
+    name = "3rd Infantry"
 
-	regiment = {
+    type = infantry
 
-		name= "3rd Infantry"
-
-		type = infantry
-		
-		home = 1431
-	}
-
-
+    home = 1431
+  }
 }
-

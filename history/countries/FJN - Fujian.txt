@@ -34,13 +34,13 @@ education = elite
 
 ruling_party = FJN_conservative
 upper_house = {
-	fascist = 0
-	liberal = 5
-	conservative = 90
-	reactionary = 5
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 5
+  conservative = 90
+  reactionary = 5
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 foreign_weapons = yes_foreign_weapons
@@ -59,23 +59,22 @@ private_banks = 1
 # Inventions
 
 1861.1.1 = {
+  foreign_weapons = yes_foreign_weapons
+  foreign_officers = yes_foreign_officers
+  army_schools = yes_army_schools
+  admin_reform = yes_admin_reform
+  finance_reform = yes_finance_reform
+  academic_institutions = madrasahs
+  taxation_reform = tax_farmers
 
-foreign_weapons = yes_foreign_weapons
-foreign_officers = yes_foreign_officers
-army_schools = yes_army_schools
-admin_reform = yes_admin_reform
-finance_reform = yes_finance_reform
-academic_institutions = madrasahs
-taxation_reform = tax_farmers
+  # Technologies
+  flintlock_rifles = 1
+  army_command_principle = 1
+  bronze_muzzle_loaded_artillery = 1
+  enlightenment_thought = 1
+  no_standard = 1
+  late_enlightenment_philosophy = 1
+  private_banks = 1
 
-# Technologies
-flintlock_rifles = 1
-army_command_principle = 1
-bronze_muzzle_loaded_artillery = 1
-enlightenment_thought = 1
-no_standard = 1
-late_enlightenment_philosophy = 1
-private_banks = 1
-
-# Inventions
+  # Inventions
 }

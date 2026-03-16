@@ -6,7 +6,7 @@ trade_goods = iron
 life_rating = 35
 terrain = mountain_farmland
 1861.1.1 = {
-	owner = FRA
-	controller = FRA
-	colonial = 1
+  owner = FRA
+  controller = FRA
+  colonial = 1
 }

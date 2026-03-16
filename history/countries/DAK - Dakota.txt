@@ -37,11 +37,11 @@ education = elite
 
 ruling_party = DAK_reactionary
 upper_house = {
-	fascist = 0
-	liberal = 32
-	conservative = 30
-	reactionary = 38
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 32
+  conservative = 30
+  reactionary = 38
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }

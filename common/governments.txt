@@ -3,131 +3,126 @@
 
 
 
-proletarian_democracy =
-{
-	#which ideology of parties.
-	communist = yes
-	socialist = yes
-	conservative = yes
-        liberal = yes
-	
-	election = yes
-	appoint_ruling_party = yes
-	flagType = communist
+proletarian_democracy = {
+  #which ideology of parties.
+  communist = yes
+  socialist = yes
+  conservative = yes
+  liberal = yes
+
+  election = yes
+  appoint_ruling_party = yes
+  flagType = communist
 }
 
-proletarian_dictatorship =
-{
-	#which ideology of parties.
-	communist = yes
-	
-	election = no
-	appoint_ruling_party = yes
-	flagType = communist
+proletarian_dictatorship = {
+  #which ideology of parties.
+  communist = yes
+
+  election = no
+  appoint_ruling_party = yes
+  flagType = communist
 }
 
-presidential_dictatorship =
-{
-	#which ideology of parties.
-	socialist = yes
-	conservative = yes
-	reactionary = yes
-	
-	election = no
-	appoint_ruling_party = no
-	flagType = republic
-}
- 
-bourgeois_dictatorship =
-{
-	#which ideology of parties.
-	anarcho_liberal = yes
+presidential_dictatorship = {
+  #which ideology of parties.
+  socialist = yes
+  conservative = yes
+  reactionary = yes
 
-	election = no
-	appoint_ruling_party = yes
-	flagType = republic
+  election = no
+  appoint_ruling_party = no
+  flagType = republic
 }
 
-fascist_dictatorship =
-{
-	#which ideology of parties.
-	fascist = yes	
-	election = no
-	appoint_ruling_party = yes
-	flagType = fascist
+bourgeois_dictatorship = {
+  #which ideology of parties.
+  anarcho_liberal = yes
+
+  election = no
+  appoint_ruling_party = yes
+  flagType = republic
 }
- 
+
+fascist_dictatorship = {
+  #which ideology of parties.
+  fascist = yes
+  election = no
+  appoint_ruling_party = yes
+  flagType = fascist
+}
+
 absolute_monarchy = {
-	liberal = yes
-	conservative = yes
-	reactionary = yes
+  liberal = yes
+  conservative = yes
+  reactionary = yes
 
-	
-	election = no
-	appoint_ruling_party = yes
-	flagType = monarchy
+
+  election = no
+  appoint_ruling_party = yes
+  flagType = monarchy
 }
- 
-prussian_constitutionalism = {
-	liberal = yes
-	socialist = yes
-	conservative = yes
-	reactionary = yes
-	fascist = yes
 
-	election = yes
-	duration = 60
-	appoint_ruling_party = yes
-	flagType = monarchy
+prussian_constitutionalism = {
+  liberal = yes
+  socialist = yes
+  conservative = yes
+  reactionary = yes
+  fascist = yes
+
+  election = yes
+  duration = 60
+  appoint_ruling_party = yes
+  flagType = monarchy
 }
 
 hms_government = {
-	liberal = yes
-	socialist = yes
-	conservative = yes
-	reactionary = yes
+  liberal = yes
+  socialist = yes
+  conservative = yes
+  reactionary = yes
 
-	election = yes
-	duration = 48
-	appoint_ruling_party = yes
-	flagType = monarchy
+  election = yes
+  duration = 48
+  appoint_ruling_party = yes
+  flagType = monarchy
 }
 
 restored_monarchy = {
-	liberal = yes
-	socialist = yes
-	conservative = yes
-	reactionary = yes
+  liberal = yes
+  socialist = yes
+  conservative = yes
+  reactionary = yes
 
-	election = yes
-	duration = 48
-	appoint_ruling_party = yes
-	flagType = monarchy
+  election = yes
+  duration = 48
+  appoint_ruling_party = yes
+  flagType = monarchy
 }
- 
-consulate_monarchy = {
-	liberal = yes
-	conservative = yes
-	reactionary = yes
 
-	
-	election = no
-	appoint_ruling_party = yes
-	flagType = republic
+consulate_monarchy = {
+  liberal = yes
+  conservative = yes
+  reactionary = yes
+
+
+  election = no
+  appoint_ruling_party = yes
+  flagType = republic
 }
 
 democracy = {
-	liberal = yes
-	socialist = yes
-	conservative = yes
-	reactionary = yes
-	communist = yes
-	anarcho_liberal = yes
-	fascist = yes
+  liberal = yes
+  socialist = yes
+  conservative = yes
+  reactionary = yes
+  communist = yes
+  anarcho_liberal = yes
+  fascist = yes
 
-	
-	election = yes
-	duration = 48
-	appoint_ruling_party = no
-	flagType = republic
+
+  election = yes
+  duration = 48
+  appoint_ruling_party = no
+  flagType = republic
 }

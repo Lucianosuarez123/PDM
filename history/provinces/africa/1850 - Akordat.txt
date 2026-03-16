@@ -6,6 +6,6 @@ trade_goods = cattle
 life_rating = 30
 terrain = hilly_grassland
 1861.1.1 = {
-	owner = ETH
-	controller = ETH
+  owner = ETH
+  controller = ETH
 }

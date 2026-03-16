@@ -1,24 +1,20 @@
-DEN = {
-	value = 150
-}
-SWE = {
-	value = 100
-}
+DEN = { value = 150 }
+SWE = { value = 100 }
 army = {
-	name = "Norsk Armén"
-	location = 310
-	regiment = {
-		name= "Svea Livgarde"
-		type = regular
-	}
+  name = "Norsk Armén"
+  location = 310
+  regiment = {
+    name = "Svea Livgarde"
+    type = regular
+  }
 
-	regiment = {
-		name= "Södermanlands Regemente"
-		type = regular
-	}
+  regiment = {
+    name = "Södermanlands Regemente"
+    type = regular
+  }
 
-	regiment = {
-		name= "Första Livgrenadjärregementet"
-		type = regular
-	}
+  regiment = {
+    name = "Första Livgrenadjärregementet"
+    type = regular
+  }
 }

@@ -34,11 +34,11 @@ education = elite
 
 ruling_party = LXA_conservative
 upper_house = {
-	fascist = 0
-	liberal = 12
-	conservative = 78
-	reactionary = 10
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 12
+  conservative = 78
+  reactionary = 10
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }

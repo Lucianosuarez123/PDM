@@ -33,30 +33,27 @@ child_labor = child_labor_restricted
 arts_endowment = no_endowment
 education = elite
 
-govt_flag = 
-{
-	government = hms_government
-	flag = presidential_dictatorship
+govt_flag = {
+  government = hms_government
+  flag = presidential_dictatorship
 }
 
 ruling_party = GER_conservative
 upper_house = {
-	fascist = 0
-	liberal = 55
-	conservative = 25
-	reactionary = 5
-	anarcho_liberal = 5
-	socialist = 5
-	communist = 5
+  fascist = 0
+  liberal = 55
+  conservative = 25
+  reactionary = 5
+  anarcho_liberal = 5
+  socialist = 5
+  communist = 5
 }
 
 schools = army_tech_school
 
+1861.1.1 = { oob = "/1861/GER_oob.txt" }
 1861.1.1 = {
-	oob = "/1861/GER_oob.txt"
-}
-1861.1.1 = {
-# Technologies
+  # Technologies
 
-#Inventions
+  #Inventions
 }

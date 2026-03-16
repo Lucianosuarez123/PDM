@@ -6,10 +6,10 @@ trade_goods = wool
 life_rating = 35
 terrain = cold_desert_hills
 1836.1.1 = {
-	controller = PBC
-	owner = PBC
+  controller = PBC
+  owner = PBC
 }
 1861.1.1 = {
-	owner = CHL
-	controller = CHL
+  owner = CHL
+  controller = CHL
 }

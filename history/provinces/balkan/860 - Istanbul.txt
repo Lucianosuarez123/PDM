@@ -13,9 +13,9 @@ terrain = forested_farmland
 #	upgrade = yes
 #}
 state_building = {
-	level = 1
-	building = fabric_factory
-	upgrade = yes
+  level = 1
+  building = fabric_factory
+  upgrade = yes
 }
 #state_building = {
 #	level = 1
@@ -23,12 +23,10 @@ state_building = {
 #	upgrade = yes
 #}
 1861.1.1 = {
-	state_building = {
-		level = 2
-		building = fabric_factory
-		upgrade = yes
-	}
+  state_building = {
+    level = 2
+    building = fabric_factory
+    upgrade = yes
+  }
 }
-1861.1.1 = {
-	naval_base = 2
-}
+1861.1.1 = { naval_base = 2 }

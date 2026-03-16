@@ -8,8 +8,8 @@ colonial = 1
 is_slave = yes
 naval_base = 1
 1861.1.1 = {
-	colonial = 0
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+  colonial = 0
+  controller = CSA
+  owner = CSA
+  add_core = CSA
 }

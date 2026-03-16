@@ -7,6 +7,6 @@ life_rating = 35
 naval_base = 1
 terrain = hilly_farmland
 1836.1.1 = {
-	controller = GRE 
-	owner = GRE
+  controller = GRE
+  owner = GRE
 }

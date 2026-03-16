@@ -5,10 +5,10 @@ trade_goods = grain
 life_rating = 35
 terrain = deciduous_forest_hills
 1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = NAL
-	add_core = SAF
-	add_core = ENG
-	colonial = 1
+  owner = ENG
+  controller = ENG
+  add_core = NAL
+  add_core = SAF
+  add_core = ENG
+  colonial = 1
 }

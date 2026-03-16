@@ -33,13 +33,13 @@ education = elite
 
 ruling_party = BSH_conservative
 upper_house = {
-	fascist = 0
-	liberal = 15
-	conservative = 70
-	reactionary = 15
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 15
+  conservative = 70
+  reactionary = 15
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 set_country_flag = existing_country
@@ -56,18 +56,14 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "BSH_oob.txt"
+1861.1.1 = { oob = "/1861/BSH_oob.txt" }
 1861.1.1 = {
-	oob = "/1861/BSH_oob.txt"
-}
-1861.1.1 = {
+  foreign_weapons = yes_foreign_weapons
+  diplomatic_reform = interactive
 
-foreign_weapons = yes_foreign_weapons
-diplomatic_reform = interactive
+  # Technologies
+  flintlock_rifles = 1
+  early_classical_theory_and_critique = 1
 
-# Technologies
-flintlock_rifles = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
+  # Inventions
 }

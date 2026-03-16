@@ -1,13 +1,10 @@
-AUS = {
-	value = 75
-}
+AUS = { value = 75 }
 
 army = {
-	name = "Esercito di Lucca"
-	location = 746
-	regiment = {
-		name= "1. Fanteria di Linea"
-		type = regular
-	}
+  name = "Esercito di Lucca"
+  location = 746
+  regiment = {
+    name = "1. Fanteria di Linea"
+    type = regular
+  }
 }
-

@@ -29,7 +29,7 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
 post_nelsonian_thought = 1
@@ -42,13 +42,13 @@ the_command_principle = 1
 ruling_party = SPA_fascist
 last_election = 1834.1.1
 upper_house = {
-	fascist = 0
-	liberal = 35
-	conservative = 60
-	reactionary = 5
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 35
+  conservative = 60
+  reactionary = 5
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 # Technologies
@@ -112,30 +112,30 @@ consciousness = 3
 nonstate_consciousness = 1
 
 1861.1.1 = {
-	oob = "/1861/SPA_oob.txt"
-	
-plurality = 60
-literacy = 0.30
-non_state_culture_literacy = 0.15
+  oob = "/1861/SPA_oob.txt"
 
-# Political reforms
-slavery = yes_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = wealth_voting
-public_meetings = yes_meeting
-press_rights = free_press
-trade_unions = non_socialist
-voting_system = first_past_the_post
-political_parties = non_secret_ballots
+  plurality = 60
+  literacy = 0.30
+  non_state_culture_literacy = 0.15
 
-ruling_party = SPA_fascist
+  # Political reforms
+  slavery = yes_slavery
+  upper_house_composition = state_equal_weight
+  vote_franschise = wealth_voting
+  public_meetings = yes_meeting
+  press_rights = free_press
+  trade_unions = non_socialist
+  voting_system = first_past_the_post
+  political_parties = non_secret_ballots
 
-# Social Reforms
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care = no_health_care
-unemployment_subsidies = no_subsidies
-pensions = no_pensions 
-school_reforms = low_schools	
+  ruling_party = SPA_fascist
+
+  # Social Reforms
+  wage_reform = no_minimum_wage
+  work_hours = no_work_hour_limit
+  safety_regulations = no_safety
+  health_care = no_health_care
+  unemployment_subsidies = no_subsidies
+  pensions = no_pensions
+  school_reforms = low_schools
 }

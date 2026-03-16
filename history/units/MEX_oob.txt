@@ -1,125 +1,96 @@
-USA = {
-	value = 100
-}
-SPA = {
-	value = 75
-}
+USA = { value = 100 }
+SPA = { value = 75 }
 
 leader = {
-	name = "Martin de Cos"
-	type = land
-	date="1836.1.1"
-	personality = impulsive
-	background = aristocrat
+  name = "Martin de Cos"
+  type = land
+  date = "1836.1.1"
+  personality = impulsive
+  background = aristocrat
 }
 
 army = {
+  name = "Ejército del Norte"
 
-	name = "Ejército del Norte"
+  location = 2181
+  regiment = {
+    name = "1. Division Cos"
 
-	location = 2181
-	regiment = {
+    type = regular
 
-		name= "1. Division Cos"
-
-		type = regular
-		
-		home = 2172
-
-	}
+    home = 2172
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "2. Division Cos"
 
-		name = "2. Division Cos"
+    type = regular
 
-		type = regular
-		
-		home = 2172
+    home = 2172
+  }
 
-	}
-	
-	regiment = {
+  regiment = {
+    name = "3. Division Cos"
 
-		name = "3. Division Cos"
+    type = regular
 
-		type = regular
-		
-		home = 2172
+    home = 2172
+  }
 
-	}
-	
-	regiment = {
+  regiment = {
+    name = "Division Comonfort"
 
-		name= "Division Comonfort"
+    type = hussar
 
-		type = hussar
-		
-		home = 2172
-	}
-
+    home = 2172
+  }
 }
 army = {
+  name = "Activo Oajaca"
 
-	name = "Activo Oajaca"
+  location = 2177
 
-	location = 2177
+  regiment = {
+    name = "1. Oajaca y Tlaxcala"
 
-	regiment = {
+    type = infantry
 
-		name = "1. Oajaca y Tlaxcala"
-
-		type = infantry
-		
-		home = 2172
-
-	}
+    home = 2172
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "2. Oajaca y Tlaxcala"
 
-		name = "2. Oajaca y Tlaxcala"
+    type = infantry
 
-		type = infantry
-		
-		home = 2172
+    home = 2172
+  }
 
-	}
-	
-	regiment = {
+  regiment = {
+    name = "3. Oajaca y Tlaxcala"
 
-		name = "3. Oajaca y Tlaxcala"
+    type = infantry
 
-		type = infantry
-		
-		home = 2172
-
-	}
-
+    home = 2172
+  }
 }
 navy = {
+  name = "Armada de Mexico"
 
-	name = "Armada de Mexico"
+  location = 2162
 
-	location = 2162
+  ship = {
+    name = "Vencedor del Alamo"
 
-	ship = {
-
- 		name = "Vencedor del Alamo"
-
-		type = frigate
-
-	}
+    type = frigate
+  }
 
 
-	ship = {
+  ship = {
+    name = "Matilda"
 
-		name = "Matilda"
-
-		type = clipper_transport
-
-	}
-
-
+    type = clipper_transport
+  }
 }
-

@@ -7,19 +7,19 @@ life_rating = 40
 terrain = marginal_farmland
 railroad = 1
 state_building = {
-	level = 3
-	building = fabric_factory
-	upgrade = yes
+  level = 3
+  building = fabric_factory
+  upgrade = yes
 }
 state_building = {
-	level = 4
-	building = regular_clothes_factory
-	upgrade = yes
+  level = 4
+  building = regular_clothes_factory
+  upgrade = yes
 }
 state_building = {
-	level = 2
-	building = bronze_factory 
-	upgrade = yes
+  level = 2
+  building = bronze_factory
+  upgrade = yes
 }
 naval_base = 2
 1861.1.1 = { railroad = 3 }

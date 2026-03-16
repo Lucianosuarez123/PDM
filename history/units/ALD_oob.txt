@@ -1,118 +1,114 @@
-FRA = {
-	value = -100
-}
+FRA = { value = -100 }
 
 leader = {
-	name = "Abd el Kader"
-	type = land
-	date = 1836.1.1
-	personality = inspiring
-	background = brilliant_strategist
-	prestige = 0.2
+  name = "Abd el Kader"
+  type = land
+  date = 1836.1.1
+  personality = inspiring
+  background = brilliant_strategist
+  prestige = 0.2
 }
 
 army = {
-	name = "Army of Abd el Kader"
-	location = 1707
-	regiment = {
-		name= "1.Askäris"
-		type = irregular
-		home = 1702
-	}
+  name = "Army of Abd el Kader"
+  location = 1707
+  regiment = {
+    name = "1.Askäris"
+    type = irregular
+    home = 1702
+  }
 
-	regiment = {
-		name= "2.Askäris"
-		type = irregular
-		home = 1702
-	}
+  regiment = {
+    name = "2.Askäris"
+    type = irregular
+    home = 1702
+  }
 
-	regiment = {
-		name= "3.Askäris"
-		type = irregular
-		home = 1702
-	}
+  regiment = {
+    name = "3.Askäris"
+    type = irregular
+    home = 1702
+  }
 
-	regiment = {
-		name= "1.Spahis"
-		type = cavalry
-		home = 1702
-	}
+  regiment = {
+    name = "1.Spahis"
+    type = cavalry
+    home = 1702
+  }
 
-	regiment = {
-		name= "2.Spahis"
-		type = cavalry
-		home = 1702
-	}
+  regiment = {
+    name = "2.Spahis"
+    type = cavalry
+    home = 1702
+  }
 
-	regiment = {
-		name= "3.Spahis"
-		type = cavalry
-		home = 1702
-	}
+  regiment = {
+    name = "3.Spahis"
+    type = cavalry
+    home = 1702
+  }
 
-	regiment = {
-		name= "4.Spahis"
-		type = cavalry
-		home = 1708
-	}
+  regiment = {
+    name = "4.Spahis"
+    type = cavalry
+    home = 1708
+  }
 
-	regiment = {
-		name= "5.Spahis"
-		type = cavalry
-		home = 1708
-	}
-
+  regiment = {
+    name = "5.Spahis"
+    type = cavalry
+    home = 1708
+  }
 }
 
 army = {
-	name = "Army of the Bey of Constantine"
-	location = 1713
-	regiment = {
-		name= "4.Askäris"
-		type = irregular
-		home = 1708
-	}
+  name = "Army of the Bey of Constantine"
+  location = 1713
+  regiment = {
+    name = "4.Askäris"
+    type = irregular
+    home = 1708
+  }
 
-	regiment = {
-		name= "5.Askäris"
-		type = irregular
-		home = 1708
-	}
+  regiment = {
+    name = "5.Askäris"
+    type = irregular
+    home = 1708
+  }
 
-	regiment = {
-		name= "6.Askäris"
-		type = irregular
-		home = 1708
-	}
+  regiment = {
+    name = "6.Askäris"
+    type = irregular
+    home = 1708
+  }
 
-	regiment = {
-		name= "7.Askäris"
-		type = irregular
-		home = 1708
-	}
-	
-	regiment = {
-		name= "1.Spahis"
-		type = cavalry
-		home = 1708
-	}
+  regiment = {
+    name = "7.Askäris"
+    type = irregular
+    home = 1708
+  }
 
-	regiment = {
-		name= "2.Spahis"
-		type = cavalry
-		home = 1708
-	}
+  regiment = {
+    name = "1.Spahis"
+    type = cavalry
+    home = 1708
+  }
 
-	regiment = {
-		name= "3.Spahis"
-		type = cavalry
-		home = 1708
-	}
+  regiment = {
+    name = "2.Spahis"
+    type = cavalry
+    home = 1708
+  }
 
-	regiment = {
-		name= "4.Spahis"
-		type = cavalry
-		home = 1708
-	}
+  regiment = {
+    name = "3.Spahis"
+    type = cavalry
+    home = 1708
+  }
 
+  regiment = {
+    name = "4.Spahis"
+    type = cavalry
+    home = 1708
+  }
 }

@@ -68,7 +68,7 @@ voting_system = first_past_the_post
 political_parties = underground_parties
 minorities_reform = oppression
 immigration_policy = nobody_gets_out
-conscription=four_year_draft
+conscription = four_year_draft
 
 set_country_flag = serfdom_not_abolished
 
@@ -79,22 +79,22 @@ safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-pollution=no_controls
+pollution = no_controls
 child_labor = child_labor_legal
-arts_endowment=no_endowment
+arts_endowment = no_endowment
 education = elite
 
 ruling_party = BRI_reactionary
 set_country_flag = tory_election_win
 last_election = 1828.12.3
 upper_house = {
-	fascist = 0
-	liberal = 5
-	conservative = 70
-	reactionary = 25
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 5
+  conservative = 70
+  reactionary = 25
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 # Technologies
@@ -148,5 +148,3 @@ nonstate_consciousness = 1
 schools = army_tech_school
 
 oob = "BRI_oob.txt"
-
-

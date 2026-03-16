@@ -4,7 +4,7 @@ life_rating = 35
 terrain = hilly_grassland
 colonial = 1
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
-	colonial = 1
+  owner = RUS
+  controller = RUS
+  colonial = 1
 }

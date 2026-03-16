@@ -13,14 +13,14 @@ terrain = good_farmland
 #	upgrade = yes
 #}
 state_building = {
-	level = 2
-	building = clipper_shipyard
-	upgrade = yes
+  level = 2
+  building = clipper_shipyard
+  upgrade = yes
 }
 1861.1.1 = {
-	state_building = {
-		level = 1
-		building = glass_factory
-		upgrade = yes
-	}
+  state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = yes
+  }
 }

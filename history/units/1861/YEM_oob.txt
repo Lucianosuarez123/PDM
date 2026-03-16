@@ -1,33 +1,25 @@
-ENG = {
-	value = 50
-}
+ENG = { value = 50 }
 
 army = {
+  name = "Army of the Sheiks of Bayda"
 
-	name = "Army of the Sheiks of Bayda"
+  location = 1176
 
-	location = 1176
+  regiment = {
+    name = "1. Abdali"
 
-	regiment = {
-
-		name= "1. Abdali"
-
-		type = hussar
-	}
+    type = hussar
+  }
 
 
-	regiment = {
+  regiment = {
+    name = "2. Abdali"
 
-		name= "2. Abdali"
+    type = hussar
+  }
+  regiment = {
+    name = "3. Abdali"
 
-		type = hussar
-	}
-	regiment = {
-
-		name= "3. Abdali"
-
-		type = infantry
-	}
-
+    type = infantry
+  }
 }
-

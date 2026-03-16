@@ -1,8 +1,8 @@
 army = {
-	name = "Army of Kutei"
-	location = 1429
-	regiment = {
-		name= "Kutei Army"
-		type = irregular
-	}
+  name = "Army of Kutei"
+  location = 1429
+  regiment = {
+    name = "Kutei Army"
+    type = irregular
+  }
 }

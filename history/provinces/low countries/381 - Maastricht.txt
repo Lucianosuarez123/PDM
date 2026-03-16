@@ -31,18 +31,16 @@ terrain = good_farmland
 
 #}
 1836.1.1 = {
-	controller = BEL 
-	owner = BEL
+  controller = BEL
+  owner = BEL
 }
 
 1861.1.1 = {
-	
-owner = NET
+  owner = NET
 
-controller = NET
+  controller = NET
 
-remove_core = BEL
+  remove_core = BEL
 
-railroad = 3
-
+  railroad = 3
 }

@@ -3,6 +3,6 @@ life_rating = 15
 terrain = seasonal_jungle_mountains
 colonial = 1
 1861.1.1 = {
-	owner = FRA
-	controller = FRA
+  owner = FRA
+  controller = FRA
 }

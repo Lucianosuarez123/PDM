@@ -1,10 +1,9 @@
 army = {
-	name = "Army of Transvaal"
-	location = 2105
-	regiment = {
-		name= "1.Transvaal Commando"
-		type = regular
-		home = 2108
-	}
+  name = "Army of Transvaal"
+  location = 2105
+  regiment = {
+    name = "1.Transvaal Commando"
+    type = regular
+    home = 2108
+  }
 }
-

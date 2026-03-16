@@ -34,13 +34,13 @@ education = elite
 
 ruling_party = CYR_conservative
 upper_house = {
-	fascist = 0
-	liberal = 10
-	conservative = 72
-	reactionary = 18
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 10
+  conservative = 72
+  reactionary = 18
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 foreign_weapons = yes_foreign_weapons
@@ -53,4 +53,3 @@ late_enlightenment_philosophy = 1
 early_classical_theory_and_critique = 1
 
 # Inventions
-

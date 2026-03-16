@@ -26,18 +26,18 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
 ruling_party = AUS_conservative
 upper_house = {
-	fascist = 0
-	liberal = 25
-	conservative = 61
-	reactionary = 14
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 25
+  conservative = 61
+  reactionary = 14
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 # Technologies
@@ -56,15 +56,15 @@ water_wheel_power = 1
 publishing_industry = 1
 
 foreign_investment = {
-	MEI = 7500
-	FRM = 7500
-	NAS = 7500
-	HES = 7500
-	HEK = 7500
-	BAD = 7500
-	BAV = 7500
-	WUR = 7500
-	SAX = 7500
+  MEI = 7500
+  FRM = 7500
+  NAS = 7500
+  HES = 7500
+  HEK = 7500
+  BAD = 7500
+  BAV = 7500
+  WUR = 7500
+  SAX = 7500
 }
 
 #Inventions

@@ -1,13 +1,10 @@
-ENG = {
-	value = 50
-}
+ENG = { value = 50 }
 
 army = {
-	name = "Al Khalifa Army"
-	location = 1162
-	regiment = {
-		name= "The Sultan's Elite"
-		type = infantry
-	}
+  name = "Al Khalifa Army"
+  location = 1162
+  regiment = {
+    name = "The Sultan's Elite"
+    type = infantry
+  }
 }
-

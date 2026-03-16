@@ -20,7 +20,7 @@ voting_system = jefferson_method
 political_parties = underground_parties
 minorities_reform = oppression
 immigration_policy = nobody_gets_out
-conscription=mandatory_service
+conscription = mandatory_service
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -29,19 +29,19 @@ safety_regulations = trinket_safety
 health_care = trinket_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-pollution=no_controls
+pollution = no_controls
 child_labor = child_labor_legal
-arts_endowment=no_endowment
+arts_endowment = no_endowment
 education = elite
 
 ruling_party = TNT_conservative
 last_election = 1834.1.1
 upper_house = {
-	fascist = 0
-	liberal = 35
-	conservative = 55
-	reactionary = 10
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 35
+  conservative = 55
+  reactionary = 10
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }

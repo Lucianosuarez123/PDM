@@ -1,6 +1,7 @@
 capital = 36
 primary_culture = anglo_canadian
 culture = metis
+culture = french_canadian
 religion = protestant
 government = hms_government
 plurality = 5.0
@@ -35,16 +36,16 @@ education = elite
 
 ruling_party = CAN_conservative
 upper_house = {
-	fascist = 0
-	liberal = 32
-	conservative = 60
-	reactionary = 8
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 32
+  conservative = 60
+  reactionary = 8
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 govt_flag = {
-	government = hms_government
-	flag = democracy
+  government = hms_government
+  flag = democracy
 }

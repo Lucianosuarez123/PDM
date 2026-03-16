@@ -34,11 +34,11 @@ education = elite
 
 ruling_party = GMJ_socialist
 upper_house = {
-	fascist = 0
-	liberal = 5
-	conservative = 40
-	reactionary = 5
-	anarcho_liberal = 0
-	socialist = 40
-	communist = 10
+  fascist = 0
+  liberal = 5
+  conservative = 40
+  reactionary = 5
+  anarcho_liberal = 0
+  socialist = 40
+  communist = 10
 }

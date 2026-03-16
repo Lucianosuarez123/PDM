@@ -1,25 +1,23 @@
 army = {
-	name = "I. Korps"
-	location = 558
-	regiment = {
-		name= "1.Sächsische Division"
-		type = regular
-	}
+  name = "I. Korps"
+  location = 558
+  regiment = {
+    name = "1.Sächsische Division"
+    type = regular
+  }
 
-	regiment = {
-		name= "2.Sächsische Division"
-		type = regular
-	}
+  regiment = {
+    name = "2.Sächsische Division"
+    type = regular
+  }
 
-	regiment = {
-		name= "3.Sächsische Division"
-		type = regular
-	}
+  regiment = {
+    name = "3.Sächsische Division"
+    type = regular
+  }
 
-	regiment = {
-		name= "4.Sächsische Division"
-		type = cuirassier
-	}
-
+  regiment = {
+    name = "4.Sächsische Division"
+    type = cuirassier
+  }
 }
-

@@ -27,23 +27,21 @@ safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-pollution=no_controls
+pollution = no_controls
 child_labor = child_labor_legal
-arts_endowment=no_endowment
+arts_endowment = no_endowment
 education = elite
 
 ruling_party = SAR_conservative
 upper_house = {
-	fascist = 0
-	liberal = 20
-	conservative = 70
-	reactionary = 10
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 20
+  conservative = 70
+  reactionary = 10
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 oob = "SRD_oob.txt"
-1861.1.1 = {
-	oob = "/1861/SRD_oob.txt"
-}
+1861.1.1 = { oob = "/1861/SRD_oob.txt" }

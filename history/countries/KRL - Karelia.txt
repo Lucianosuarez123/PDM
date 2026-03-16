@@ -36,11 +36,11 @@ education = elite
 
 ruling_party = KRL_conservative
 upper_house = {
-	fascist = 0
-	liberal = 20
-	conservative = 40
-	reactionary = 2
-	anarcho_liberal = 3
-	socialist = 35
-	communist = 0
+  fascist = 0
+  liberal = 20
+  conservative = 40
+  reactionary = 2
+  anarcho_liberal = 3
+  socialist = 35
+  communist = 0
 }

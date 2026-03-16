@@ -10,11 +10,10 @@ CHO = { value = 125 }
 SAT = { value = 125 }
 
 army = {
-	name = "Royal army of Ryukyu"
-	location = 1678
-	regiment = {
-		name= "Ryukyuan Warriors"
-		type = infantry
-	}
+  name = "Royal army of Ryukyu"
+  location = 1678
+  regiment = {
+    name = "Ryukyuan Warriors"
+    type = infantry
+  }
 }
-

@@ -6,7 +6,7 @@ life_rating = 15
 terrain = desert
 colonial = 1
 1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 0
+  owner = TUR
+  controller = TUR
+  colonial = 0
 }

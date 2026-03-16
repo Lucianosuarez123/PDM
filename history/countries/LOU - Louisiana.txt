@@ -29,7 +29,7 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
 # Technologies
@@ -58,28 +58,24 @@ nonstate_consciousness = 1
 ruling_party = FRA_liberal
 last_election = 1834.6.21
 upper_house = {
-	fascist = 0
-	liberal = 12
-	conservative = 70
-	reactionary = 18
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 12
+  conservative = 70
+  reactionary = 18
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
 
 govt_flag = {
-	government = hms_government
-	flag = presidential_dictatorship
+  government = hms_government
+  flag = presidential_dictatorship
 }
 
 schools = culture_tech_school
 
 oob = "FRA_oob.txt"
 
-1830.1.1 = { 
-         government = hms_government
-}
+1830.1.1 = { government = hms_government }
 
-1848.1.1 = {
-         government = consulate_monarchy
-}
+1848.1.1 = { government = consulate_monarchy }

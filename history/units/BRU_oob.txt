@@ -9,11 +9,10 @@ CHO = { value = 100 }
 SAT = { value = 100 }
 
 army = {
-	name = "Army of the Sultan of Brunei"
-	location = 1394
-	regiment = {
-		name= "1.Sultan's regular"
-		type = infantry
-	}
+  name = "Army of the Sultan of Brunei"
+  location = 1394
+  regiment = {
+    name = "1.Sultan's regular"
+    type = infantry
+  }
 }
-

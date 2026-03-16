@@ -1,5 +1,5 @@
 capital = 1700
-primary_culture = arab
+primary_culture = mashriqi
 culture = berber
 religion = sunni
 government = absolute_monarchy
@@ -27,16 +27,16 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
 ruling_party = ALD_conservative
 upper_house = {
-	fascist = 0
-	liberal = 12
-	conservative = 75
-	reactionary = 13
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+  fascist = 0
+  liberal = 12
+  conservative = 75
+  reactionary = 13
+  anarcho_liberal = 0
+  socialist = 0
+  communist = 0
 }
